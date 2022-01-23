@@ -2,29 +2,29 @@
   "name": "Solfanto Swift Package Collection",
   "overview": "Swift packages used for our projects.",
   "author": {
-      "name": "Matthew Nguyen"
+    "name": "Matthew Nguyen"
   },
   "keywords": [
-      "solfanto"
+    "solfanto"
   ],
   "packages": [
-      {
-          "url": "https://github.com/n-studio/SKSwiftExtension"
-      },
-      {
-          "url": "https://github.com/n-studio/SwiftColor"
-      },
-      {
-          "url": "https://github.com/n-studio/SnapKit"
-      },
-      {
-          "url": "https://github.com/n-studio/UIImageColors"
-      },
-      {
-          "url": "https://github.com/n-studio/AEXML"
-      },
-      {
-          "url": "https://github.com/n-studio/ChromaColorPicker"
-      }
+    {
+      "url": "https://github.com/n-studio/SKSwiftExtension.git"
+    },
+    {
+      "url": "https://github.com/n-studio/SwiftColor.git"
+    },
+    {
+      "url": "https://github.com/n-studio/SnapKit.git"
+    },
+    {
+      "url": "https://github.com/n-studio/UIImageColors.git"
+    },
+    {
+      "url": "https://github.com/n-studio/AEXML.git"
+    },
+    {
+      "url": "https://github.com/n-studio/ChromaColorPicker.git"
+    }
   ]
 }
