@@ -40,6 +40,9 @@
     },
     {
       "url": "https://github.com/n-studio/BadgeHub.git"
+    },
+    {
+      "url": "https://github.com/n-studio/SwiftMessages.git"
     }
   ]
 }
